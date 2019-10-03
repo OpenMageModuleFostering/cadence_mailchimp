@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension allows you to collect email addresses through a popup and syncs to your Mailchimp account.
